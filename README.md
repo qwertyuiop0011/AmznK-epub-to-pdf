@@ -3,7 +3,7 @@ I made this program to convert the epub file of Barron's AP Physics 1 to a pdf f
 
 ### Precondition
 - You should purchase the Kindle Book of the document you want to convert on Amazon.
-- Chromedriver needs to be installed (with a version higher than 99).
+- ChromeDriver needs to be installed with a version higher than ChromeDriver 99.
 
 ### Usage
 - Insert all of the data listed in ```config.py```.
