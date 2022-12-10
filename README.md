@@ -9,6 +9,7 @@ I made this program to convert the epub file of Barron's AP Physics 1 to a pdf f
 - Insert all of the data listed in ```config.py```.
 - Run ```main.py```.
 - All of the pages will be stored in the ```res``` directory.
+- Remove ```resinfo.md``` from the ```res``` directory.
 
 ### Notes
 - Page numbers might be different with the ```.epub``` file.
